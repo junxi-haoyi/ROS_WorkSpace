@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="py_pkg" type="py_wanye_node.py" name="py_wanye_node"/>
+    <node pkg="py_pkg" type="py_ying_node.py" name="py_ying_node"/>
+    <node pkg="USART_pkg" type="USART_node.py" name="USART_node" output="screen"/>
+</launch>

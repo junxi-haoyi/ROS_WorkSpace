@@ -1,0 +1,5 @@
+<launch>
+<node pkg="ssr_pkg" type="test_node" name="test_node"/>
+<node pkg="ssr_pkg" type="SPY_node" name="SPY_node"/>
+<node pkg="sbcb_pkg" type="sbcb_node" name="sbcb_node" output="screen"/>
+</launch>

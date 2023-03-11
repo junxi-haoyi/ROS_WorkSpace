@@ -1,0 +1,8 @@
+prefix=/home/funtime/catkin_ws/devel
+
+Name: sbcb_pkg
+Description: Description of sbcb_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

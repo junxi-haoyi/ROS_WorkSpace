@@ -1,0 +1,2 @@
+USART_pkg:py_pkg:sbcb_pkg:ssr_pkg
+-DCATKIN_DEVEL_PREFIX=/home/funtime/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/funtime/catkin_ws/install -G Unix Makefiles

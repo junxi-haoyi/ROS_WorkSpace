@@ -1,0 +1,8 @@
+prefix=/home/funtime/catkin_ws/install
+
+Name: py_pkg
+Description: Description of py_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
